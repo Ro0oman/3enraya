@@ -1,9 +1,9 @@
-# MAFF
+# RM
 
 CFGS Desenrotllament d'Aplicacions Web
-Entorns de Desenrotllament
+Entorno de Desarrollo
 
 ## Programa de 3 en raya
 
-Programa exemple per activitat de Github amb Python
+Programa de Python que recrea el juego 3 en raya
 
